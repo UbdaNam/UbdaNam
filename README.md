@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img alt="Waving hi" width="45" src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif">, I'm Abdurahim Miftah</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
+<img align="right" alt="Coding" width="38%" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
 <h3 align="left">A visionary front-end developer</h3><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubdanam" width="600" alt="ubdanam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubdanam" width="57%" alt="ubdanam" /></a> </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubdanam&label=Profile%20views&color=0e75b6&style=flat" alt="ubdanam" /> </p><br>
 
