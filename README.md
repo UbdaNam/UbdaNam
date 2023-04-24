@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdurahim Miftah</h1>
-<h3 align="center">A visionary front-end developer</h3>
+<h1 align="center">Hi <img alt="Waving hi" width="45" src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif">, I'm Abdurahim Miftah</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubdanam" alt="ubdanam" /></a> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ubdanam&label=Profile%20views&color=0e75b6&style=flat" alt="ubdanam" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
+<h3 align="left">A visionary front-end developer</h3><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubdanam" width="600" alt="ubdanam" /></a> </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubdanam&label=Profile%20views&color=0e75b6&style=flat" alt="ubdanam" /> </p><br>
 
 ## About
 - 🕵️‍♂️ I’m currently working on **Math magicians with React**
@@ -37,12 +38,10 @@
 
 ## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubdanam&show_icons=true&locale=en&layout=compact" alt="ubdanam" /></p><br><br><br><br><br><br><br>
+<p align="left"><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubdanam&show_icons=true&locale=en&layout=compact" alt="ubdanam" />
+&nbsp;<img width="340px" src="https://github-readme-stats.vercel.app/api?username=ubdanam&show_icons=true&locale=en" alt="ubdanam" />
+<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=ubdanam&" alt="ubdanam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubdanam&show_icons=true&locale=en" alt="ubdanam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubdanam&" alt="ubdanam" /></p>
-
-<h3 align="left">Support:</h3>
+<h3 align="left"> Support</h3>
 <p><a href="https://ko-fi.com/ubdanam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ubdanam" /></a></p><br><br><br> 
 
