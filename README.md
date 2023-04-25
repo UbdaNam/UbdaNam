@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **JavasSript, React, Postman and Jest**
 
-- 📫 How to reach me **abdugreat3@gmail.com**
+- 📫 How to reach me [Email](mailto:abdugreat3@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17YxZrpPxfF3jCQJCYbs3K7rVKTl6Jl8x/view?usp=sharing)
 
