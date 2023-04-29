@@ -17,7 +17,7 @@
 
 - 📄 Checkout my [LinkedIn](https://linkedin.com/in/abdurahim-m-068ba116b) profile
 
-- 💬 Ask me about **JavasSript, React, Postman and Jest**
+- 💬 Ask me about **JavaSript, React, Postman and Jest**
 
 - 📫 How to reach me [Email](mailto:abdugreat3@gmail.com)
 
