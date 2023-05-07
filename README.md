@@ -69,11 +69,11 @@
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br /><br /><br />
+<br><br><br>
 
 ### 📊 Stats
 
-<p align="left">
+<p align="center">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubdanam&show_icons=true&locale=en&layout=compact" alt="ubdanam" />
 &nbsp;
   <img width="340px" src="https://github-readme-stats.vercel.app/api?username=ubdanam&show_icons=true&locale=en" alt="ubdanam" />
