@@ -6,7 +6,7 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **African COVID-19 tracker with React**
+- 🕵️‍♂️ I’m currently working on **Real estate web app with React**
 
 - 🌱 I’m currently learning **React with redux and Nodejs**
 
