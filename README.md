@@ -8,7 +8,7 @@
 ### About
 - 🕵️‍♂️ I’m currently working on **Real estate web app with React**
 
-- 🌱 I’m currently learning **React with redux and Nodejs**
+- 🌱 I’m currently learning **React with typescript**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
