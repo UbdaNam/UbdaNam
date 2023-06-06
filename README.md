@@ -6,9 +6,9 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Real estate web app with React**
+- 🕵️‍♂️ I’m currently working on **Vet clinic database with postgres**
 
-- 🌱 I’m currently learning **React with typescript**
+- 🌱 I’m currently learning **Postgres**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
