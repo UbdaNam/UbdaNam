@@ -68,10 +68,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br><br><br>
 
-### 📊 Github Stats and Activity
+<h3 width="100%"> 📊 Github Stats and Activity</h3>
 
 <p align="center">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubdanam&show_icons=true&locale=en&layout=compact" alt="ubdanam" />
