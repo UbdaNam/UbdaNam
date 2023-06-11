@@ -8,7 +8,7 @@
 ### About
 - 🕵️‍♂️ I’m currently working on **Vet clinic database with postgres**
 
-- 🌱 I’m currently learning **Postgres**
+- 🌱 I’m currently learning **PostgreSQL and Nodejs**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
