@@ -6,9 +6,9 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Vet clinic database with postgres**
+- 🕵️‍♂️ I’m currently working on **OOP school library with ruby**
 
-- 🌱 I’m currently learning **PostgreSQL and Nodejs**
+- 🌱 I’m currently learning **PostgreSQL and Ruby**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
@@ -16,7 +16,7 @@
 
 - 📄 Checkout my [LinkedIn](https://linkedin.com/in/abdurahim-m-068ba116b) profile
 
-- 💬 Ask me about **JavaScript, React, Postman and Jest**
+- 💬 Ask me about **JavaScript, React, Postman, and Jest**
 
 - 📫 How to reach me [Email](mailto:abdugreat3@gmail.com)
 
