@@ -20,7 +20,7 @@
 
 - 📫 How to reach me [Email](mailto:abdugreat3@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17YxZrpPxfF3jCQJCYbs3K7rVKTl6Jl8x/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ujkiWNaLT9_58NZLPf7PmonCG4qXt7GwE9eBQu_-Jgs/edit?usp=sharing)
 
 - 😄 Pronouns: **He/Him**
 
@@ -69,7 +69,7 @@
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br><br><br>
+<br><br><br><br>
 
 <h3 width="100%"> 📊 Github Stats and Activity</h3>
 
