@@ -6,7 +6,7 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **OOP school library with ruby**
+- 🕵️‍♂️ I’m currently working on **Catalog of my things with ruby**
 
 - 🌱 I’m currently learning **PostgreSQL and Ruby**
 
