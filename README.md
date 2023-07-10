@@ -8,7 +8,7 @@
 ### About
 - 🕵️‍♂️ I’m currently working on **Catalog of my things with ruby**
 
-- 🌱 I’m currently learning **PostgreSQL and Ruby**
+- 🌱 I’m currently learning **PostgreSQL and Ruby on rails**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
