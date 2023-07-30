@@ -6,7 +6,7 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Blogiverse with ruby on rails**
+- 🕵️‍♂️ I’m currently working on **Recipe App with ruby on rails**
 
 - 🌱 I’m currently learning **PostgreSQL and Ruby on rails**
 
