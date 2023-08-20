@@ -6,7 +6,7 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Cash Wise with ruby on rails**
+- 🕵️‍♂️ I’m currently working on **Book Appointment with React and Ruby on Rails**
 
 - 🌱 I’m currently learning **PostgreSQL and Ruby on rails**
 
