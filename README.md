@@ -6,9 +6,9 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Book Appointment with React and Ruby on Rails**
+- 🕵️‍♂️ I’m currently working on **Admin dashboard with React**
 
-- 🌱 I’m currently learning **PostgreSQL and Ruby on rails**
+- 🌱 I’m currently learning **Intermediate Ruby on rails**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
