@@ -6,7 +6,7 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Admin dashboard with React**
+- 🕵️‍♂️ I’m currently working on **Admin dashboard with React and TypeScript**
 
 - 🌱 I’m currently learning **Intermediate Ruby on rails**
 
@@ -16,7 +16,7 @@
 
 - 📄 Checkout my [LinkedIn](https://linkedin.com/in/abdurahim-m-068ba116b) profile
 
-- 💬 Ask me about **JavaScript, React, Postman, and Jest**
+- 💬 Ask me about **JavaScript, React, Ruby on Rails, and Jest**
 
 - 📫 How to reach me [Email](mailto:abdugreat3@gmail.com)
 
@@ -24,7 +24,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact **The shortest war in history was between Britain and Zanzibar in 1896. It lasted only 38 minutes**<br><br>
+- ⚡ Fun fact **The GitHub mascot is an Octocat, which is a cute combination of an octopus and a cat**<br><br>
 
 ### 🔗 Connect with me: Links
 
