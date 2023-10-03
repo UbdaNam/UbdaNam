@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="38%" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
   
-  **`A visionary front-end developer`**
+  **`Let's develop a solution for the future`**
   
 
 ### About
