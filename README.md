@@ -20,7 +20,7 @@
 
 - 📫 How to reach me [Email](mailto:abdugreat3@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1IzgUG7LNwyZg5rMyqB6-yWs_-8rWxNkJIQfcwcW_3oA/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rBvYLaqjhXlTuK_YyyHMA_bo2NeD9l4X/view?usp=sharing)
 
 - 😄 Pronouns: **He/Him**
 
