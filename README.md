@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="38%" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
   
-  **`Let's develop a solution for the future`**
+  **`Let's develop a solution for the future `**
   
 
 ### About
@@ -18,13 +18,13 @@
 
 - 💬 Ask me about **JavaScript, React, Ruby on Rails, and Jest**
 
-- 📫 How to reach me [Email](mailto:abdugreat3@gmail.com)
+- 📫 How to reach me [Email](mailto:abdurahimiftah@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Dk1lqkP0x2PWcBlzgDzg7tkjMejyCwIx/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z6BPpoy4ryeXjbgMKzlifoxOvpp3_DSk/view?usp=drive_link)
 
-- 😄 Pronouns: **He/Him**
+- ⚡ Pronouns: **He/Him**
 
-- ⚡ Fun fact **The GitHub mascot is an Octocat, which is a cute combination of an octopus and a cat**<br><br>
+- 😄 Fun fact **The GitHub mascot is an Octocat, which is a cute combination of an octopus and a cat**<br><br>
 
 ### 🔗 Connect with me: Links
 
