@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [Email](mailto:abdurahimiftah@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z6BPpoy4ryeXjbgMKzlifoxOvpp3_DSk/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KEt1ZHpQB_KshjRyGXqOsQS56quelDgV/view?usp=sharing)
 
 - ⚡ Pronouns: **He/Him**
 
