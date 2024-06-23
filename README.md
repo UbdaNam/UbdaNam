@@ -4,7 +4,7 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Admin dashboard with React and TypeScript**
+- 🕵️‍♂️ I’m currently working on **Game Vault with React and TypeScript**
 
 - 🌱 I’m currently learning **Intermediate Ruby on rails**
 
