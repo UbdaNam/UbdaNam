@@ -6,7 +6,7 @@
 ### About
 - 🕵️‍♂️ I’m currently working on **Game Vault with React and TypeScript**
 
-- 🌱 I’m currently learning **Intermediate Ruby on rails**
+- 🌱 I’m currently learning **Intermediate Next.js 14**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
