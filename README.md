@@ -4,23 +4,21 @@
   
 
 ### About
-- 🕵️‍♂️ I’m currently working on **Game Vault with React and TypeScript**
+- 🕵️‍♂️ I’m currently working on **Manage Expenses with Next 15**
 
-- 🌱 I’m currently learning **Intermediate Next.js 14**
+- 🌱 I’m currently learning **AWS EC2 Instance With PUB-SUB SNS**
 
 - 👯 I’m looking to collaborate on **D3.js**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://ubdanam.github.io/Portfolio/)
+- 👨‍💻 Some of my projects are available at my [Portfolio](https://ubdanam.github.io/Portfolio/)
 
 - 📄 Checkout my [LinkedIn](https://linkedin.com/in/abdurahim-m-068ba116b) profile
 
-- 💬 Ask me about **JavaScript, React, Ruby on Rails, and Jest**
+- 💬 Ask me about **JavaScript, React, Next, Ruby on Rails, and Jest**
 
 - 📫 How to reach me [Email](mailto:abdurahimiftah@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KEt1ZHpQB_KshjRyGXqOsQS56quelDgV/view?usp=sharing)
-
-- ⚡ Pronouns: **He/Him**
 
 - 😄 Fun fact **The GitHub mascot is an Octocat, which is a cute combination of an octopus and a cat**<br><br>
 
