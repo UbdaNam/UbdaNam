@@ -65,11 +65,11 @@
 
 <h3 width="100%"> 📊 Github Stats and Activity</h3>
 
-<p align="center">
+<p align="left">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubdanam&show_icons=true&locale=en&layout=compact" alt="ubdanam" />
 &nbsp;
   <!-- <img width="340px" src="https://github-readme-stats.vercel.app/api?username=ubdanam&show_icons=true&locale=en" alt="ubdanam" /> -->
-  <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=ubdanam&" alt="ubdanam" /></p>
+  <!-- <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=ubdanam&" alt="ubdanam" /></p> -->
 
 <details>
  <summary><h3> Support ˗ˏˋ☕ˎˊ˗</h3></summary>
