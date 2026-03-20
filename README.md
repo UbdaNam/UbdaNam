@@ -63,9 +63,9 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br><br><br><br>
 
-<h3 width="100%"> 📊 Github Stats and Activity</h3>
+<!-- <h3 width="100%"> 📊 Github Stats and Activity</h3> -->
 
-<p align="left">
+<!-- <p align="left">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubdanam&show_icons=true&locale=en&layout=compact" alt="ubdanam" />
 &nbsp;
   <!-- <img width="340px" src="https://github-readme-stats.vercel.app/api?username=ubdanam&show_icons=true&locale=en" alt="ubdanam" /> -->
